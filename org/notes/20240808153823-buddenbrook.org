@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       348EF1F9-FD17-4D0F-9C10-CC14733C05CC
+:END:
+#+title: Buddenbrook
+#+options: author:nil, date:nil, toc:nil, num:5, H:5, html-postamble:nil
+
+Un nota sul libro Buddenbrook 
+

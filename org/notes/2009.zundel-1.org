@@ -1,0 +1,22 @@
+* 2009.zundel-1
+:PROPERTIES:
+:NOTER_DOCUMENT: ../../../org/mypapers/5619b2253f5e77f8cea43e74f23454ce-doumenc-b.-and-zund/2009.zundel-1.pdf
+:END:
+** definizioni
+:PROPERTIES:
+:NOTER_PAGE: (1 0.5715002508780732 . 0.051759834368530024)
+:END:
+#+BEGIN_QUOTE
+discussione. Per alcuni autori si tratta del valore a partire dal
+quale si manifestano i sintomi neurovegetativi mentre, per altri,
+corrisponde al livello inferiore al 5o percentile nella popolazione
+generale.
+#+END_QUOTE
+** valori soglia manifestazioni sintomi
+:PROPERTIES:
+:NOTER_PAGE: (1 0.5970898143502258 . 0.6363008971704625)
+:END:
+#+BEGIN_QUOTE
+un valore glicemico inferiore a 0,5 g/l è stato
+riscontrato nel 17% dei soggetti.
+#+END_QUOTE

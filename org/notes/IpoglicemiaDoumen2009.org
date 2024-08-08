@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4E1DA566-6265-4ABE-A17F-930017900A37
+:ROAM_REFS: cite:IpoglicemiaDoumen2009
+:END:
+#+title: Ipoglicemia
+#+options: author:nil, date:nil, toc:nil, num:5, H:5, html-postamble:nil
+
+- tags :ipoglicemia:revisione:
+- keywords :: 
+
+* Ipoglicemia
+:PROPERTIES:
+:Custom_ID: IpoglicemiaDoumen2009
+:URL: 
+:AUTHOR: Doumenc, B., & Zundel, J.
+:NOTER_DOCUMENT: ~/org/mypapers/5619b2253f5e77f8cea43e74f23454ce-doumenc-b.-and-zund/2009.zundel-1.pdf  
+:NOTER_PAGE:              
+:END:
+
+Nota di prova 
+

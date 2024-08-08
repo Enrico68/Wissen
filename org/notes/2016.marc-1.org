@@ -1,0 +1,25 @@
+* 2016.marc-1
+:PROPERTIES:
+:NOTER_DOCUMENT: ../../../org/mypapers/24f1db7f05900ffb7f173ee1328305d7-wiel-e.-and-gosseli/2016.marc-1.pdf
+:END:
+** Incremento della incidenza
+:PROPERTIES:
+:NOTER_PAGE: (2 0.2101063829787234 . 0.5055555555555555)
+:END:
+#+BEGIN_QUOTE
+Le tendenze evolutive osservate negli Stati Uniti indicano un
+incremento relativo della sua incidenza del 90% in dieci anni
+#+END_QUOTE
+** definizione di shock settico
+:PROPERTIES:
+:NOTER_PAGE: (2 0.47473404255319146 . 0.49047619047619045)
+:END:
+#+BEGIN_QUOTE
+Lo stato di shock è deﬁnito come un’insufﬁcienza respirato-
+ria cellulare acuta secondaria a un’insufﬁcienza circolatoria acuta,
+che conduce a una diminuzione del rilascio effettivo di ossigeno
+ai tessuti, causando una vera crisi energetica cellulare. Questa
+situazione, rapidamente irreversibile, chiamata disossia cellulare,
+corrisponde all’uso della via anaerobica
+#+END_QUOTE
+

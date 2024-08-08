@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7312D908-E7EE-4370-943B-682F62DDE457
+:END:
+#+title: Prima Nota Roam 
+#+options: author:nil, date:nil, toc:nil, num:5, H:5, html-postamble:nil
+
+Una prima natoa elisp 
+
