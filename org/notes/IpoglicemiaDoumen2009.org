@@ -17,5 +17,3 @@
 :NOTER_PAGE:              
 :END:
 
-Nota di prova 
-

@@ -24,6 +24,20 @@
 :org-remark-original-text: Hunnenstein, la pietra fondativa dell’impero germanico.
 :END:
 
+* us-wahl-swing-states-harris-trump-100
+:PROPERTIES:
+:org-remark-file: www.deutschlandfunk.de/us-wahl-swing-states-harris-trump-100.html
+:END:
+
+** Was ist das Electoral College?  Die 538 Wahlleute in diesem Gremium kommen aus allen 50 US-Bundesstaaten, jeder Bundesstaat hat mindestens drei Stimmen. Die Wahlleute repräsentieren das Mehrheitsvotum in ihrem Bundesstaat. Weil es in vielen US-Bundesstaaten eine klare Tendenz zur demokratischen oder republikanischen Partei gibt, steht in den meisten Staaten das Votum der Wahlleute schon vor der Wahl fest. So kann Kamala Harris im Electoral College etwa mit den Stimmen aus Kalifornien und New York rechnen, Donald Trump hat die Wahlleute aus Texas oder Wyoming sicher. 
+:PROPERTIES:
+:org-remark-id: 20c0d700
+:org-remark-label: nil
+:org-remark-beg: 6648
+:org-remark-end: 7221
+:org-remark-link: [[https://www.deutschlandfunk.de/us-wahl-swing-states-harris-trump-100.html]]
+:org-remark-original-text: Was ist das Electoral College?  Die 538 Wahlleute in diesem Gremium kommen aus allen 50 US-Bundesstaaten, jeder Bundesstaat hat mindestens drei Stimmen. Die Wahlleute repräsentieren das Mehrheitsvotum in ihrem Bundesstaat. Weil es in vielen US-Bundesstaaten eine klare Tendenz zur demokratischen oder republikanischen Partei gibt, steht in den meisten Staaten das Votum der Wahlleute schon vor der Wahl fest. So kann Kamala Harris im Electoral College etwa mit den Stimmen aus Kalifornien und New York rechnen, Donald Trump hat die Wahlleute aus Texas oder Wyoming sicher.
+:END:
 * schule-geschichte-bildungsreform-gymnasium-100
 :PROPERTIES:
 :org-remark-file: www.deutschlandfunk.de/schule-geschichte-bildungsreform-gymnasium-100.html
@@ -39,17 +53,3 @@
 :org-remark-original-text: Geschichte der Schule Hefte raus, Bildungsreform!
 :END:
 
-* us-wahl-swing-states-harris-trump-100
-:PROPERTIES:
-:org-remark-file: www.deutschlandfunk.de/us-wahl-swing-states-harris-trump-100.html
-:END:
-
-** Was ist das Electoral College?  Die 538 Wahlleute in diesem Gremium kommen aus allen 50 US-Bundesstaaten, jeder Bundesstaat hat mindestens drei Stimmen. Die Wahlleute repräsentieren das Mehrheitsvotum in ihrem Bundesstaat. Weil es in vielen US-Bundesstaaten eine klare Tendenz zur demokratischen oder republikanischen Partei gibt, steht in den meisten Staaten das Votum der Wahlleute schon vor der Wahl fest. So kann Kamala Harris im Electoral College etwa mit den Stimmen aus Kalifornien und New York rechnen, Donald Trump hat die Wahlleute aus Texas oder Wyoming sicher. 
-:PROPERTIES:
-:org-remark-id: 20c0d700
-:org-remark-label: nil
-:org-remark-beg: 6648
-:org-remark-end: 7221
-:org-remark-link: [[https://www.deutschlandfunk.de/us-wahl-swing-states-harris-trump-100.html]]
-:org-remark-original-text: Was ist das Electoral College?  Die 538 Wahlleute in diesem Gremium kommen aus allen 50 US-Bundesstaaten, jeder Bundesstaat hat mindestens drei Stimmen. Die Wahlleute repräsentieren das Mehrheitsvotum in ihrem Bundesstaat. Weil es in vielen US-Bundesstaaten eine klare Tendenz zur demokratischen oder republikanischen Partei gibt, steht in den meisten Staaten das Votum der Wahlleute schon vor der Wahl fest. So kann Kamala Harris im Electoral College etwa mit den Stimmen aus Kalifornien und New York rechnen, Donald Trump hat die Wahlleute aus Texas oder Wyoming sicher.
-:END:
