@@ -1,2 +1,10 @@
 * [[https://mail.google.com/mail/mu/mp/888/#cv/In%20arrivo/19143729e8b12eb5][Gmail]]
 [2024-08-12 Mon 08:53]
+* [[https://hledger.org/basics.html][Tutorial: hledger basics - hledger]]
+[2024-08-12 Mon 09:21]
+* [[https://m.youtube.com/watch?v=EWjoblLoD3k][Ledger CLI, Personal finance in the command line by Edwin Espinoza - YouTube]]
+[2024-08-12 Mon 09:16]
+* TODO Prova di sync con beorg 
+- Note taken on [2024-08-13 Tue 09:18] \\
+  Una nota
+[2024-08-13 Tue 09:17]
