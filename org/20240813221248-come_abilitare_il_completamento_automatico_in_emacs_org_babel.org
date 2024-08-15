@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       C87630CF-5306-4CAB-876E-48B01097A64A
+:END:
+#+title: Come abilitare il completamento automatico in Emacs Org-babel
+#+filetags: :org-mode:org-babel:org-elisp:emacs:complete-elisp:
+#+options: author:nil, date:nil, toc:nil, num:5, H:5, html-postamble:nil
+
+Late to the party but today the default (and recommended way without other
+hacks) is to switch to the dedicated elisp buffer for that "hunk" using
+='org-edit-special= which today is mapped to
+#+begin_src lisp
+C-c- '
+#+end_src
+
+
+
+

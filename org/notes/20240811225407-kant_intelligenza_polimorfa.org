@@ -9,82 +9,147 @@
 #+options: author:nil, date:nil, toc:nil, num:5, H:5, html-postamble:nil
 
 #+begin_quote
-Era un pomeriggio romano di settembre, quando il sole ancora scalda le giornate e interrompe con un breve piacere la frenetica attività delle matricole
-che scalpitano per prendere un posto tra le prime file nelle aule universitarie. Scalpitavano tutti attorno a me. Tutti tranne me. Avrei preferito andare in
-un parco ad ascoltare musica e leggere un bel libro, oppure confrontarmi su quello che era accaduto a New York due settimane prima. Quel
-settembre del 2001, avevano tutti da fare. Chi aveva già iniziato Medicina, chi aveva fatto il test di ingresso a Chimica, chi iniziava i corsi preparatori
-per le matricole a Scienze Politiche. Nel frattempo, io cercavo di capire cosa fare nella vita. Volevo fare la ricercatrice, l’ho sempre voluto fare, da
-quando avevo quindici anni, ma in fondo non sapevo da dove cominciare. E così in quel pomeriggio romano di settembre, cercai un po’ di conforto
-per capire a quale facoltà dovessi mai iscrivermi e andai a trovare la mia cara amica Valentina in un luogo incantato: Villa Mirafiori. Lei, sì, che sapeva
-cosa voleva fare in quel momento: Filosofia. Solamente che quel pomeriggio lei aveva ancora da fare, doveva seguire un corso di Storia della filosofia
-moderna e mi scrisse di raggiungerla davanti all’aula XII. Ma si sa che a settembre le giornate si accorciano e che quando cala il sole può far freddo.
-Così entrai nell’aula per godere del calore generato dalle matricole accalcate. Sedetti all’ultimo posto disponibile e guardai la lavagna: c’era scritto
-“Tavola delle categorie”, poi più sotto “Quantità, qualità, relazione, modalità” e accanto con una freccia “Io penso”. “Oddio, ho pescato proprio la
-lezione su Kant!”, pensai. Ma quel Kant di cui il professore parlava era diverso dal Kant che avevo studiato al liceo. Era il Kant di cui si dibatteva in
-ambito tedesco e americano sul finire degli anni Novanta. Era un Kant letto anche nell’originale tedesco. Era un Kant complesso, intrigante, dentro e
-fuori dal suo tempo. “Interessante”, pensai, e alla fine decisi di iscrivermi a Filosofia per colpa di Kant. Allora imparai piano piano a conoscere il
-“polimorfo” Immanuel Kant. Il proemio dell’Odissea recita: “Narrami, o musa, dell’eroe multiforme, che tanto vagò, dopo che distrusse la Rocca sacra
-di Troia: di molti uomini vide le città e conobbe i pensieri, molti dolori patì sul mare nell’animo suo, per riacquistare a sé la vita e il ritorno ai
-compagni”. “Ma quale Ulisse!”, direte. Anzi, si ricorda fino allo sfinimento che Kant non lasciò mai la sua Königsberg. Eppure, il polimorfo Immanuel
-Kant è stato un logico, filosofo, scienziato naturale, cosmologo, antropologo e geografo ante litteram, sismologo, politologo e probabilmente sto
-dimenticando almeno altri tre ambiti a cui ha contribuito talvolta in maniera decisiva e lo ha fatto esercitando la riflessione, studiando, scrivendo e
-confrontandosi con i colleghi, gli studenti e gli amici: ha racchiuso il mondo in una piccola città.
+Era un pomeriggio romano di settembre, quando il sole ancora scalda le giornate
+e interrompe con un breve piacere la frenetica attività delle matricole che
+scalpitano per prendere un posto tra le prime file nelle aule universitarie.
+Scalpitavano tutti attorno a me. Tutti tranne me. Avrei preferito andare in un
+parco ad ascoltare musica e leggere un bel libro, oppure confrontarmi su quello
+che era accaduto a New York due settimane prima. Quel settembre del 2001,
+avevano tutti da fare. Chi aveva già iniziato Medicina, chi aveva fatto il test
+di ingresso a Chimica, chi iniziava i corsi preparatori per le matricole a
+Scienze Politiche. Nel frattempo, io cercavo di capire cosa fare nella vita.
+Volevo fare la ricercatrice, l’ho sempre voluto fare, da quando avevo quindici
+anni, ma in fondo non sapevo da dove cominciare. E così in quel pomeriggio
+romano di settembre, cercai un po’ di conforto per capire a quale facoltà
+dovessi mai iscrivermi e andai a trovare la mia cara amica Valentina in un luogo
+incantato: Villa Mirafiori. Lei, sì, che sapeva cosa voleva fare in quel
+momento: Filosofia. Solamente che quel pomeriggio lei aveva ancora da fare,
+doveva seguire un corso di Storia della filosofia moderna e mi scrisse di
+raggiungerla davanti all’aula XII. Ma si sa che a settembre le giornate si
+accorciano e che quando cala il sole può far freddo. Così entrai nell’aula per
+godere del calore generato dalle matricole accalcate. Sedetti all’ultimo posto
+disponibile e guardai la lavagna: c’era scritto “Tavola delle categorie”, poi
+più sotto “Quantità, qualità, relazione, modalità” e accanto con una freccia “Io
+penso”. “Oddio, ho pescato proprio la lezione su Kant!”, pensai. Ma quel Kant di
+cui il professore parlava era diverso dal Kant che avevo studiato al liceo. Era
+il Kant di cui si dibatteva in ambito tedesco e americano sul finire degli anni
+Novanta. Era un Kant letto anche nell’originale tedesco. Era un Kant complesso,
+intrigante, dentro e fuori dal suo tempo. “Interessante”, pensai, e alla fine
+decisi di iscrivermi a Filosofia per colpa di Kant. Allora imparai piano piano a
+conoscere il “polimorfo” Immanuel Kant. Il proemio dell’Odissea recita:
+“Narrami, o musa, dell’eroe multiforme, che tanto vagò, dopo che distrusse la
+Rocca sacra di Troia: di molti uomini vide le città e conobbe i pensieri, molti
+dolori patì sul mare nell’animo suo, per riacquistare a sé la vita e il ritorno
+ai compagni”. “Ma quale Ulisse!”, direte. Anzi, si ricorda fino allo sfinimento
+che Kant non lasciò mai la sua Königsberg. Eppure, il polimorfo Immanuel Kant è
+stato un logico, filosofo, scienziato naturale, cosmologo, antropologo e
+geografo ante litteram, sismologo, politologo e probabilmente sto dimenticando
+almeno altri tre ambiti a cui ha contribuito talvolta in maniera decisiva e lo
+ha fatto esercitando la riflessione, studiando, scrivendo e confrontandosi con i
+colleghi, gli studenti e gli amici: ha racchiuso il mondo in una piccola città.
 
-Con Kant, come con tutti i grandi, non ci si annoia mai, e per questo ho deciso di studiarlo e non ho mai smesso. C’è sempre un modo di plasmare un
-dialogo con la sua opera che è vasta e profonda; c’è sempre il modo di leggere dietro le righe, studiando le sue riflessioni e i suoi appunti manoscritti;
-c’è sempre il modo di confrontarsi con una filosofia che aveva una visione cosmica, in tutti i sensi. In una lettera a Christian Garve del 21 settembre
-1798, Kant confessò che i problemi legati all’idea di Mondo rappresentano un filo rosso da seguire che collega tutta la sua opera. Mondo inteso come
-cosmo in senso ampio. E infatti oltre ad aver immaginato una struttura dell’universo nel 1755, Kant è famoso per aver affrontato le antinomie della
-ragion pura e per aver pensato una filosofia in senso cosmopolitico. Ma Kant è stato chiamato anche il geografo della ragione: tutto il mondo
-racchiuso nelle facoltà umane è stato da lui pensato, disegnato e compreso per poi essere dispiegato e utilizzato sul globo terracqueo che ha studiato
-in ogni dettaglio nella sua geografia fisica e nei suoi scritti di scienza naturale. Se per Kant l’universo era un mondo di mondi, il sistema solare lo era
-di pianeti e la Terra di climi e società politiche. E l’uomo? L’uomo anche è un cosmo fatto di facoltà, di sensazioni, di rappresentazioni: senz’altro
-intelligenza in senso ampio. Ecco, noi siamo un mondo intelligente, non solamente in un’accezione positiva, ovviamente, siamo capaci anche di
-generare un mondo ingiusto fatto di azioni contrarie alla legge morale. Kant poi non riponeva grande fiducia nella capacità umana di comprendere la
-natura; anzi quest’ultima era inconoscibile nella sua interezza, eppure Kant riteneva che fosse in nostro potere comprendere la nostra di natura, il
-nostro rapporto col mondo naturale e dunque che potessimo scegliere di agire al meglio da un punto di vista etico-pratico. Kant aveva grande
-consapevolezza della nostra contingenza come specie e dei limiti della nostra conoscenza, ma anche della possibilità di accrescere la nostra
-comprensione del mondo, esplorandolo e realizzandovi la nostra destinazione. Ecco, per il trecentesimo compleanno di Immanuel Kant, penso sia
-importante ricordare questo aspetto della sua riflessione che resta un messaggio estremamente potente per le attuali generazioni. Kant iniziò la sua
-carriera occupandosi di filosofia e scienza naturale, studiò il moto di rotazione assiale della Terra, elaborò una teoria dei venti e dell’atmosfera
-terrestre, scrisse una splendida cosmologia e una storia naturale del nostro pianeta. Queste opere normalmente sono bollate come “scritti giovanili”,
-eppure Kant non smise mai di interrogarsi su questi temi e molti dei contenuti di queste opere sono stati oggetto dei suoi corsi universitari o degli
-scritti di epoca tarda. E cosa diceva Kant in queste opere? Kant pensava che nell’universo i mondi si disgregassero per originare poi nuovi mondi,
-nuove stelle e nuovi pianeti e siccome la Terra è un pianeta, è facile capire cosa potesse pensare il “giovane” Kant del destino della nostra stella e
-dunque anche del nostro pianeta. Ma c’è di più. Kant studiava le teorie della storia della Terra e sapeva che la fine del nostro pianeta non si sarebbe
-verificata in tempi brevi (sebbene un cataclisma sia sempre possibile in un pianeta così poco conosciuto). Così Kant elaborò anche una visione
-secondo cui dai resoconti antichi, dai fossili e da altri reperti archeologici si poteva dedurre che la specie umana in epoche diverse avesse dovuto
-misurarsi con eventi cataclismici inevitabili e che questi si sarebbero ripetuti in futuro con maggiore o minore intensità, a seconda del processo
-naturale in questione: terremoti, pandemie, carestie, inondazioni, tsunami. Eh già, tsunami. Kant infatti si occupò anche di questo: pur non avendo
-mai viaggiato come Ulisse, scrisse una sua teoria dei terremoti, scioccato come molti, dai resoconti del terribile terremoto seguito da uno tsunami a
-Lisbona del 1° novembre 1755. Ecco, Kant è il filosofo della completezza della logica generale, il filosofo della ragione pura, dell’Illuminismo e del
-cosmopolitismo, ma perché è anche il filosofo consapevole della necessaria contingenza umana. E così, di fronte a una natura potente, la sua
-proposta per la nostra specie è promuoverne la conoscenza mediata, promuovere un’isola di verità per orientarci e attraverso cui possiamo essere
-più consapevoli dei nostri limiti ma anche della nostra grandezza qualora sperimentassimo il sublime o qualora riuscissimo a dirigere i nostri sforzi e la
-nostra intelligenza verso il nostro benessere come specie e non solo come individui. Kant non aveva la minima idea di quello che noi oggi chiamiamo
-in un’accezione tecnica cambiamento climatico o dell’antropogenesi del riscaldamento globale, eppure non sarebbe rimasto sorpreso, forse solo
+Con Kant, come con tutti i grandi, non ci si annoia mai, e per questo ho deciso
+di studiarlo e non ho mai smesso. C’è sempre un modo di plasmare un dialogo con
+la sua opera che è vasta e profonda; c’è sempre il modo di leggere dietro le
+righe, studiando le sue riflessioni e i suoi appunti manoscritti; c’è sempre il
+modo di confrontarsi con una filosofia che aveva una visione cosmica, in tutti i
+sensi. In una lettera a Christian Garve del 21 settembre 1798, Kant confessò che
+i problemi legati all’idea di Mondo rappresentano un filo rosso da seguire che
+collega tutta la sua opera. Mondo inteso come cosmo in senso ampio. E infatti
+oltre ad aver immaginato una struttura dell’universo nel 1755, Kant è famoso per
+aver affrontato le antinomie della ragion pura e per aver pensato una filosofia
+in senso cosmopolitico. Ma Kant è stato chiamato anche il geografo della
+ragione: tutto il mondo racchiuso nelle facoltà umane è stato da lui pensato,
+disegnato e compreso per poi essere dispiegato e utilizzato sul globo terracqueo
+che ha studiato in ogni dettaglio nella sua geografia fisica e nei suoi scritti
+di scienza naturale. Se per Kant l’universo era un mondo di mondi, il sistema
+solare lo era di pianeti e la Terra di climi e società politiche. E l’uomo?
+L’uomo anche è un cosmo fatto di facoltà, di sensazioni, di rappresentazioni:
+senz’altro intelligenza in senso ampio. Ecco, noi siamo un mondo intelligente,
+non solamente in un’accezione positiva, ovviamente, siamo capaci anche di
+generare un mondo ingiusto fatto di azioni contrarie alla legge morale. Kant poi
+non riponeva grande fiducia nella capacità umana di comprendere la natura; anzi
+quest’ultima era inconoscibile nella sua interezza, eppure Kant riteneva che
+fosse in nostro potere comprendere la nostra di natura, il nostro rapporto col
+mondo naturale e dunque che potessimo scegliere di agire al meglio da un punto
+di vista etico-pratico. Kant aveva grande consapevolezza della nostra
+contingenza come specie e dei limiti della nostra conoscenza, ma anche della
+possibilità di accrescere la nostra comprensione del mondo, esplorandolo e
+realizzandovi la nostra destinazione. Ecco, per il trecentesimo compleanno di
+Immanuel Kant, penso sia importante ricordare questo aspetto della sua
+riflessione che resta un messaggio estremamente potente per le attuali
+generazioni. Kant iniziò la sua carriera occupandosi di filosofia e scienza
+naturale, studiò il moto di rotazione assiale della Terra, elaborò una teoria
+dei venti e dell’atmosfera terrestre, scrisse una splendida cosmologia e una
+storia naturale del nostro pianeta. Queste opere normalmente sono bollate come
+“scritti giovanili”, eppure Kant non smise mai di interrogarsi su questi temi e
+molti dei contenuti di queste opere sono stati oggetto dei suoi corsi
+universitari o degli scritti di epoca tarda. E cosa diceva Kant in queste opere?
+Kant pensava che nell’universo i mondi si disgregassero per originare poi nuovi
+mondi, nuove stelle e nuovi pianeti e siccome la Terra è un pianeta, è facile
+capire cosa potesse pensare il “giovane” Kant del destino della nostra stella e
+dunque anche del nostro pianeta. Ma c’è di più. Kant studiava le teorie della
+storia della Terra e sapeva che la fine del nostro pianeta non si sarebbe
+verificata in tempi brevi (sebbene un cataclisma sia sempre possibile in un
+pianeta così poco conosciuto). Così Kant elaborò anche una visione secondo cui
+dai resoconti antichi, dai fossili e da altri reperti archeologici si poteva
+dedurre che la specie umana in epoche diverse avesse dovuto misurarsi con eventi
+cataclismici inevitabili e che questi si sarebbero ripetuti in futuro con
+maggiore o minore intensità, a seconda del processo naturale in questione:
+terremoti, pandemie, carestie, inondazioni, tsunami. Eh già, tsunami. Kant
+infatti si occupò anche di questo: pur non avendo mai viaggiato come Ulisse,
+scrisse una sua teoria dei terremoti, scioccato come molti, dai resoconti del
+terribile terremoto seguito da uno tsunami a Lisbona del 1° novembre 1755. Ecco,
+Kant è il filosofo della completezza della logica generale, il filosofo della
+ragione pura, dell’Illuminismo e del cosmopolitismo, ma perché è anche il
+filosofo consapevole della necessaria contingenza umana. E così, di fronte a una
+natura potente, la sua proposta per la nostra specie è promuoverne la conoscenza
+mediata, promuovere un’isola di verità per orientarci e attraverso cui possiamo
+essere più consapevoli dei nostri limiti ma anche della nostra grandezza qualora
+sperimentassimo il sublime o qualora riuscissimo a dirigere i nostri sforzi e la
+nostra intelligenza verso il nostro benessere come specie e non solo come
+individui. Kant non aveva la minima idea di quello che noi oggi chiamiamo in
+un’accezione tecnica cambiamento climatico o dell’antropogenesi del
+riscaldamento globale, eppure non sarebbe rimasto sorpreso, forse solo
 preoccupato, ma anche rinfrancato dalla filosofia.
 
-Vi è infatti un altro punto che vale la pena introdurre a trecento anni dalla sua nascita. Kant aveva compreso che per quanto il destino del nostro
-pianeta fosse scritto, a noi restava la possibilità di dispiegare la nostra intelligenza, restava la possibilità di rivelarci polimorfi e rendere tangibile il
-contenuto del nostro pensiero, i nostri ideali, la nostra libertà intesa come autonomia dalla natura e come risultato di un atto della nostra volontà di
-conformarsi a una legge morale. Questo si poteva tradurre in opere di ingegneria, in miglioramento della medicina, dell’istruzione e delle condizioni
-materiali e giuridiche degli esseri umani. E questo abbiamo fatto, con innumerevoli limiti, passando per orrori ed errori nel corso della storia degli
+Vi è infatti un altro punto che vale la pena introdurre a trecento anni dalla
+sua nascita. Kant aveva compreso che per quanto il destino del nostro pianeta
+fosse scritto, a noi restava la possibilità di dispiegare la nostra
+intelligenza, restava la possibilità di rivelarci polimorfi e rendere tangibile
+il contenuto del nostro pensiero, i nostri ideali, la nostra libertà intesa come
+autonomia dalla natura e come risultato di un atto della nostra volontà di
+conformarsi a una legge morale. Questo si poteva tradurre in opere di
+ingegneria, in miglioramento della medicina, dell’istruzione e delle condizioni
+materiali e giuridiche degli esseri umani. E questo abbiamo fatto, con
+innumerevoli limiti, passando per orrori ed errori nel corso della storia degli
 ultimi duecento anni.
 
-In fondo gli sforzi che sono stati compiuti per il riconoscimento di diritti fondamentali, per l’abbattimento dei fascismi in Europa, per l’accesso
-all’istruzione e alle risorse energetiche come un bene pubblico rappresentano un barlume di speranza di fronte ai rischi per la salute e per la vita della
-nostra specie su questo pianeta, anche se resta ancora moltissimo da fare. Lo sviluppo di un sistema di controllo e monitoraggio del cambiamento
-climatico, così come l’educazione delle nuove generazioni agli studi di modelli del clima e di sviluppo globale tanto da un punto di vista economico che
-giuridico rappresentano un importante passo in avanti, un’eredità di cui fare tesoro. La crescente consapevolezza che l’ingiustizia economica e i
-soprusi di una parte del mondo sull’altra siano un pericolo per la nostra intera specie è il primo passo per affrontare da un punto di vista filosofico il
-problema del mondo. Ecco, Kant è stato il filosofo che ha inaugurato una nuova materia che insegnava all’università, la Geografia Fisica, e però in
-questa lui ci aggiungeva di tutto, dalla storia alla fisica, dalla giurisprudenza all’antropologia, dalla teoria della conoscenza alla climatologia. Il polimorfo
-Kant. Lo faceva perché sapeva che la consapevolezza della nostra contingenza si sarebbe trasformata in pessimismo cosmico se non fosse stata
-accompagnata dalla nostra capacità di imporre la nostra intelligenza, seppur in parte, per cambiare il corso degli eventi, alimentando la conoscenza
-della nostra interazione con il mondo fisico e nutrendo la conoscenza di noi stessi in vista di un agire individuale e collettivo verso il bene, verso la
-realizzazione dell’idea di diritto sul globo terracqueo, verso il dispiegamento della nostra destinazione che va ben oltre il puro meccanismo delle leggi
-di natura. Mai come oggi, a trecento anni dalla sua nascita, c’è bisogno di ricordare questo messaggio di Kant e di affidarlo alla generazione che
-verrà.
+In fondo gli sforzi che sono stati compiuti per il riconoscimento di diritti
+fondamentali, per l’abbattimento dei fascismi in Europa, per l’accesso
+all’istruzione e alle risorse energetiche come un bene pubblico rappresentano un
+barlume di speranza di fronte ai rischi per la salute e per la vita della nostra
+specie su questo pianeta, anche se resta ancora moltissimo da fare. Lo sviluppo
+di un sistema di controllo e monitoraggio del cambiamento climatico, così come
+l’educazione delle nuove generazioni agli studi di modelli del clima e di
+sviluppo globale tanto da un punto di vista economico che giuridico
+rappresentano un importante passo in avanti, un’eredità di cui fare tesoro. La
+crescente consapevolezza che l’ingiustizia economica e i soprusi di una parte
+del mondo sull’altra siano un pericolo per la nostra intera specie è il primo
+passo per affrontare da un punto di vista filosofico il problema del mondo.
+Ecco, Kant è stato il filosofo che ha inaugurato una nuova materia che insegnava
+all’università, la Geografia Fisica, e però in questa lui ci aggiungeva di
+tutto, dalla storia alla fisica, dalla giurisprudenza all’antropologia, dalla
+teoria della conoscenza alla climatologia. Il polimorfo Kant. Lo faceva perché
+sapeva che la consapevolezza della nostra contingenza si sarebbe trasformata in
+pessimismo cosmico se non fosse stata accompagnata dalla nostra capacità di
+imporre la nostra intelligenza, seppur in parte, per cambiare il corso degli
+eventi, alimentando la conoscenza della nostra interazione con il mondo fisico e
+nutrendo la conoscenza di noi stessi in vista di un agire individuale e
+collettivo verso il bene, verso la realizzazione dell’idea di diritto sul globo
+terracqueo, verso il dispiegamento della nostra destinazione che va ben oltre il
+puro meccanismo delle leggi di natura. Mai come oggi, a trecento anni dalla sua
+nascita, c’è bisogno di ricordare questo messaggio di Kant e di affidarlo alla
+generazione che verrà.
 #+end_quote
 
