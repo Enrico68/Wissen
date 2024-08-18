@@ -1,0 +1,28 @@
+* Enciclopedia delle scienze filosofiche (Georg Wilhelm Friedrich Hegel etc.) (Z-Library)
+:PROPERTIES:
+:NOTER_DOCUMENT: ../../../Library/Mobile Documents/com~apple~CloudDocs/Downloads/Enciclopedia delle scienze filosofiche (Georg Wilhelm Friedrich Hegel etc.) (Z-Library).epub
+:END:
+** Significato dello spirito
+:PROPERTIES:
+:NOTER_PAGE: (10 20429 . 21013)
+:END:
+#+BEGIN_QUOTE
+Lo spirito ha per noi a proprio presupposto la natura, della quale costituisce
+la verità, e ne è perciò l'assolutamente primo. In questa verità la natura è
+dileguata, e lo spirito è risultato come l'idea giunta al proprio essere per sé,
+il cui oggetto, ed insieme anche il soggetto, è il concetto. Questa identità è
+assoluta negatività, poiché nella natura il concetto ha la propria completa
+oggettività esteriore, ma ha superato questa sua esteriorizzazione, ed è in essa
+divenuto identico a sé. Esso pertanto non è questa identità se non in quanto è
+un ritornare a sé dalla natura.
+
+#+END_QUOTE
+** Notes for page (10 32788 . 32983)
+:PROPERTIES:
+:NOTER_PAGE: (10 32788 . 32983)
+:END:
+#+BEGIN_QUOTE
+Tuttavia, lo spirito non si accontenta di trasporre le cose, in quanto spirito
+finito, nello spazio della sua interiorità, sottraendo quindi loro, in maniera
+ancora esteriore, la loro esteriorità
+#+END_QUOTE

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       24882728-7042-421D-83E0-9592B7AD88D8
+:END:
+#+title: Carne morta La transitorietà nella pittura
+#+filetags: :rembrandt:stillleben:cristianesimo:morte:transitorietà:
+#+options: author:nil, date:nil, toc:nil, num:5, H:5, html-postamble:nil
+
+
+Totes Fleisch ist totes Fleisch, egal, ob von von Mensch oder Tier. Das wollte Rembrandt in seinem Stillleben ausdrücken. Im Christentum hingegen
+ist der Tod nicht der Wahrheit letzter Schluss. (picture-alliance / akg-images / Glasgow, Art Gallery and Museum / Andre Held)
+
+#+caption: Totes Fleisch ist totes Fleisch, egal, ob von Mensch oder von Tier
+[[file: /Users/enricopirani/Wissen/org/images/2024-08-11_23-36.png]]
+
+
+:rembrandt:stillleben:cristianesimo:morte:transitorietà:

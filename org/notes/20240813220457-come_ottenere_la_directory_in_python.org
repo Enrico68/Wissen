@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       C93BE3A1-C6CA-4742-8675-8153ED6D8D7B
+:END:
+#+title: Come ottenere la directory in python
+#+filetags: :python:os:directory:cwd:
+#+options: author:nil, date:nil, toc:nil, num:5, H:5, html-postamble:nil
+
+#+begin_src python
+  import os 
+  # Get the current working directory
+  current_directory = os.getcwd()
+  # Print the directory
+  print(f"The current working directory is: {current_directory}")
+#+end_src
+
+- Come abilitare il completamento automatico in Emacs Org-babel?
+
+
+
+
