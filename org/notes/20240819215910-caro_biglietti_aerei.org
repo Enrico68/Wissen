@@ -1,0 +1,101 @@
+:PROPERTIES:
+:ID:       F8BA7E8A-5191-4E94-AC29-F4BAD012EBB7
+:END:
+#+title: caro biglietti aerei
+#+options: author:nil, date:nil, toc:nil, num:5, H:5, html-postamble:nil
+
+
+A fine giugno Lufthansa, la terza compagnia aerea più grande del mondo, ha annunciato che dal 2025 imporrà sui propri biglietti un supplemento che
+potrà arrivare fino a 72 €, necessario per coprire i crescenti costi imposti dalle normative ambientali. La compagnia giustifica questi aumenti citando
+nell’ordine i Saf (Sustainable Aviation Fuels), gli adattamenti del sistema Ets (Emission Trading System, sistema che fissa delle quote di emissioni di
+gas serra ammesse) e infine genericamente altre normative locali. Lufthansa è tra le prime compagnie al mondo a dichiarare esplicitamente di
+aumentare il prezzo dei biglietti a causa dei costi ambientali e probabilmente traccia una direzione che altre seguiranno: è possibile che, negli anni a
+venire, volare in aereo costerà sensibilmente più che in passato. I Saf, sigla che indica le nuove generazioni di carburanti per aviazione a origine
+rinnovabile, non a caso sono citati al primo posto tra i fattori che determinano questo supplemento. Di fatto, in base al destino dei Saf dipende se
+l’aviazione potrà mai essere un’attività sostenibile e quindi, in secondo luogo, anche quanto sarà richiesto in termini economici al settore (e di
+conseguenza a viaggiatori e spedizionieri) per muoversi in maniera sostenibile. È quindi il caso di capirne di più finché la questione è agli albori, e non
+sono ancora sorte le polarizzazioni che prima o poi abbracciano qualsiasi contesto in cui la tutela ambientale determina un costo tangibile per il
+consumatore finale.
+
+In effetti, l’aviazione ha vissuto finora in una posizione invidiabile perché, pur essendo un massiccio emettitore di gas serra, ha continuato a fruire
+dell’esenzione da ogni tassa sul carburante, che consuma in grandi quantità. Anche all’interno dell’Unione Europea, la tassazione del carburante è
+vietata dalla Energy Taxation Directive del 2003, e gli Stati europei comunque non applicano tassazione anche negli ambiti in cui potrebbero farlo
+(come, ad esempio, i voli interni). Se si considera che circa la metà dei costi operativi di un aereo consiste nel carburante, si capisce come la
+mancanza di una tassazione sia stata cruciale sia per il massiccio sviluppo di cui l’aviazione ha beneficiato negli ultimi anni, così come dei biglietti a
+basso costo che hanno grandemente ampliato la platea di viaggiatori. Ciò è avvenuto nonostante l’aereo sia anche il mezzo di trasporto con le
+maggiori emissioni a parità di massa trasportata e spazio percorso; per fare un esempio, una spedizione via aerea produce circa 20 volte le
+emissioni rispetto al trasporto navale. Il pacchetto Fit for 55, con cui l’Unione Europea punta a ridurre le emissioni di gas serra del 55% rispetto al
+1990 entro il 2030, non ha quindi trascurato di porre obiettivi di decarbonizzazione anche per il trasporto aereo, che è attualmente causa del 3,8%
+delle emissioni all’interno dell’Unione.
+
+Ma se ridurre le emissioni della produzione di energia elettrica è relativamente semplice, perché esistono soluzioni tecniche già immediatamente
+applicabili (le fonti rinnovabili), il trasporto pesante pone diverse complicazioni in più. Il cuore della questione è la cosiddetta “densità di energia”.
+Infatti, l’energia che si utilizza per produrre il movimento deve essere stoccata in qualche modo all’interno del mezzo che deve muoversi (a meno che
+non riceva alimentazione in continuo come i treni). Non tutte le soluzioni di stoccaggio hanno la stessa densità: trasportare la stessa quantità di
+energia in forme diverse occupa volumi e pesi differenti. Le batterie al litio, che si apprestano a dominare la mobilità leggera, sono forme di stoccaggio
+a bassa densità; non a caso le auto elettriche a parità di autonomia pesano di più rispetto allo stesso modello a benzina, proprio a causa della
+batteria. Lo stoccaggio in forma chimica, in cui l’energia è immagazzinata all’interno dei legami chimici delle molecole che formano i combustibili,
+possiede invece una densità molto più elevata. È anche in virtù di questa alta densità che ha senso estrarre i combustibili fossili, pur con tutta
+l’energia che è comunque richiesta per portare in superficie molecole organiche che giacciono nelle profondità della terra: l’energia spesa per
+l’estrazione non è che una frazione di quella ottenuta. Per l’aviazione peso e volume sono fattori cruciali più che per ogni altra modalità di trasporto: se
+il combustibile pesasse dieci volte tanto (sono circa queste le proporzioni per passare alle batterie) l’aereo non riuscirebbe neanche a prendere il volo.
+Ne consegue che mettere energia rinnovabile in un aereo, come si farebbe per le auto, è semplicemente impossibile. Al momento non ci sono
+alternative a utilizzare il combustibile fossile negli aerei, perché non esiste nessuna altra fonte di energia, disponibile in quantità sufficiente, che abbia
+una densità di energia sufficientemente elevata. Eccetto forse l’uranio, ma in quel caso le problematiche di sicurezza sarebbero insormontabili.
+
+Al problema tecnico se ne aggiunge anche uno finanziario, perché la vita media di un aereo di linea è circa 30 anni e non sarebbe sostenibile per le
+compagnie investire per sostituirli prima che questo tempo sia trascorso. Ciò vuol dire che anche qualora inventassimo un tipo di propulsione che non
+necessità di carburanti fossili, dal momento in cui l’ultimo aereo a combustibili fossili uscirà dalla fabbrica, passerà almeno un quarto di secolo prima
+che questo smetta di emettere CO2 nell’aria. Peraltro, attualmente la tecnologia “pulita” ancora non esiste – dovremo aspettare parecchio tempo
+prima di poter toccare fisicamente questo “ultimo aereo”. Per questo è necessario cercare altre soluzioni, che, senza sorpresa, coincidono con quelle
+di chi vuole prolungare la vita dei motori a combustione interna: produrre carburanti come quelli fossili, ma da fonte rinnovabile. Ecco i Saf, che di
+fatto possono comprendere qualsiasi sostanza da fonte rinnovabile che si possa introdurre nei motori di un aereo convenzionale.
+
+Che i Saf siano una categoria più che una sostanza ben definita lo si può capire anche dal prossimo grafico, tratto da un report dell’Icao
+(l’Organizzazione internazionale dell’aviazione civile), che mostra come questi dovrebbero diffondersi nel corso del secolo corrente allo scopo di
+ridurre le emissioni.
+
+* 
+
+Il grafico descrive le quote di emissioni evitate grazie ai diversi tipi Saf, mentre la parte grigia più in basso sarebbe la CO2 effettivamente rilasciata. Si
+osserva quindi che si pianifica di alternare diversi tipi di Saf. Il primo è quello ottenuto dalla biomassa, come gli scarti di oli che sono alla base dei Saf
+correnti e dei carburanti per auto chiamati “biocarburanti ad oli esausti”. Questa categoria di Saf punta a sfruttare gli olii usati, e in generale i residui o
+sottoprodotti di biomassa, per ottenerne dei carburanti. Le diverse sostanze vengono quindi trattate in impianti chimici che ne convertono le molecole
+fino ad assumere una composizione il più possibile vicina al carburante fossile. Tuttavia, i Saf da biomassa non basteranno a soddisfare l’intero
+fabbisogno dell’aviazione, quindi a un certo punto sarà necessario trovare altre fonti. La strada alternativa sarà ricavare il carbonio da scarichi di
+processi industriali e convertire la CO2 in carburante. A differenza della biomassa, la materia prima in questo caso è a basso contenuto di energia
+perché di fatto è un materiale esausto; questa energia deve essere ripristinata per rigenerare il carburante e la fonte dovrà essere rinnovabile. I
+processi per realizzare questi carburanti, detti carburanti sintetici o e-fuels sono ancora lontani dalla maturità. Più avanti nel tempo, con la
+prosecuzione della decarbonizzazione dell’industria, verranno a mancare anche gli scarichi contenenti alte quantità di CO2, e quindi il carbonio per gli
+e-fuels andrà ricavato dall’atmosfera (atmospheric CO2 Saf). Nel frattempo, si vedrà l’alba degli aerei a idrogeno, che però non diventeranno parte
+consistente del panorama prima del 2050. L’evoluzione dei carburanti dovrà accompagnarsi anche a un’evoluzione dei motori, che dovranno essere in
+grado di utilizzare composizioni flessibili che potranno includere quantità variabili di Saf. Questo fattore, unito alle considerazioni già fatte sulla vita
+degli aerei, potrebbe richiedere in futuro di riadattare i sistemi di propulsione di aerei già in uso. Nel complesso, sono necessarie evoluzioni
+concomitanti a diversi livelli perché una significativa parte dell’aviazione inizi a utilizzare i Saf e ciò richiede investimenti da parte delle aziende, quindi
+implica costi più elevati ed è inevitabile che questi si ripercuotano anche sul prezzo dei biglietti.
+
+Quello così descritto non è che uno tra gli scenari che cercano di tracciare la via più semplice per decarbonizzare il settore, e fa comunque intuire
+come quella dei Saf non sia una scelta alla quale si può passare in qualsiasi momento, ma un percorso da intraprendere. Molti dei passaggi descritti
+possono sembrare futuristici o visionari, e in un certo senso l’impressione è corretta: le tecnologie per realizzarli non esistono ancora e quando
+esistono sono eccessivamente costose. Di conseguenza non è nemmeno possibile prevedere quanto potrà costare volare in futuro, anche se è
+ragionevole pensare che i prezzi saranno più alti. Questa è una rappresentazione molto vivida del cosiddetto “costo ambientale”, cioè di quanto costi
+svolgere un’attività in maniera sostenibile per l’ambiente. Ciò diventa ancora più evidente se si considera che l’annuncio di Lufthansa è nato
+dall’imposizione di una frazione di Saf ancora molto ridotta, un mero 2%. Il pacchetto Fit for 55 e in particolare l’iniziativa ReFuel Aviation pongono
+obiettivi graduali per l’introduzione dei Saf, disponendo che dal 2025 solo un minimo del 2% del carburante distribuito negli aeroporti europei sia
+composto da Saf. La percentuale salirà al 6% nel 2030 e al 70% nel 2070.
+
+L’atteggiamento delle grandi aziende dell’aviazione rispetto a queste normative è ambiguo. Il settore ha fatto grossi sforzi per promuoversi come, se
+non sostenibile, almeno attento alle tematiche ambientali: si ricordino le possibilità di compensare la CO2 emessa (pur con modalità discutibili), gli
+sforzi per migliorare efficienza e consumi degli aerei, mentre la stessa Lufthansa si è fatta promotrice dei Saf e del loro sviluppo. D’altra parte, si
+tratta pur sempre di un’industria che al momento dipende fisiologicamente dal carburante fossile e non potrà eliminare questa dipendenza per ancora
+molti anni, per la quale i Saf rappresentano un’arma a doppio taglio: possono garantirle la sopravvivenza in un mondo che potrebbe non tollerare più
+l’effetto serra, ma anche decretarne la morte se i costi la porranno fuori mercato rispetto ad oggi.
+
+L’equazione dovrebbe però tenere contro anche del costo ambientale, che, come per molte altre attività, non è stato mai considerato.  Non bisogna
+dimenticare che tutto il consumo di combustibili fossili fatto finora è stato realizzato a debito, creando un costo che la società sarà costretta a
+rifondere. Esistono molteplici studi sul futuro delle società umane nei diversi scenari del cambiamento climatico e tutti prevedono un peggioramento
+delle condizioni di vita tanto più la temperatura salirà. Tutto questo avrà un costo, che secondo le previsioni è di gran lunga superiore a quando
+possiamo pagare oggi per evitare gli esiti peggiori. In altre parole, non è che in futuro volare costerà troppo, ma che finora abbiamo pagato troppo
+poco. Serve quindi nei consumatori la consapevolezza che sostenere un costo più elevato, in special modo per attività che richiedono quantità molto
+elevate di energia, sia un investimento necessario per garantirci un futuro migliore.
+

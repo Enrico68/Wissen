@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       68C65FC8-E930-4BEA-B742-EB26375F8DF5
+:END:
+#+title: come usare org drill per germanico
+#+filetags: :emacs: :org-mode: :org-capture: :org-drill:
+#+options: author:nil, date:nil, toc:nil, num:5, H:5, html-postamble:nil
+
+Penso che usare Org Drill con i modelli Org Capture sia in realtà molto veloce
+per inserire nuove carte. Se non l'hai fatto potresti provarlo.
+
+Ecco la mia configurazione:
+
+#+begin_src lisp
+  (setq org-capture-templates '(("b" "Adverbs" entry
+                                 (file+headline "~/Documents/DeutschLernen/germanDrill/germanDrill.org" "Adverbs")
+                                 "* Adverb :drill:\n%^{Español}\n** Back\n%^{Deutsch}\n")
+                                 ("j" "Adjectives" entry
+                                 (file+headline "~/Documents/DeutschLernen/germanDrill/germanDrill.org" "Adjectives")
+                                 "* Adjective :drill:\n%^{Español}\n** Back\n%^{Deutsch}\n")
+                                 ("v" "Verbs" entry
+                                 (file+headline "~/Documents/DeutschLernen/germanDrill/germanDrill.org" "Verbs")
+                                 "* Verb :drill:\n%^{Español}\n** Back\n%^{Deutsch}\n")
+                                 ("n" "Nouns" entry
+                                 (file+headline "~/Documents/DeutschLernen/germanDrill/germanDrill.org" "Nouns")
+                                 "* Noun :drill:\n%^{Español}\n** Back\n%^{Deutsch}\n")))
+#+end_src
+
+
+
+
+
+:emacs: :org-mode: :org-capture: :org-drill: 
+
