@@ -1,0 +1,79 @@
+* Manifesto-TaxTheRich_DEF_26.04.2024.docx-1
+:PROPERTIES:
+:NOTER_DOCUMENT: Manifesto-TaxTheRich_DEF_26.04.2024.docx-1.pdf
+:END:
+** L’introduzione di un’imposta progressiva sui grandi patrimoni,
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+** L’aumento del prelievo sulle grandi successioni e donazioni
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+** TaxTheRich
+:PROPERTIES:
+:NOTER_PAGE: (1 0.12865168539325844 . 0.09841269841269841)
+:END:
+#+BEGIN_QUOTE
+Con questo Manifesto vogliamo affermare la necessità di un’agenda TaxTheRich che, attraverso un maggiore
+prelievo a carico dei contribuenti più facoltosi, come lo 0,1% più ricco della popolazione, contribuisca ad
+aumentare l’equità del nostro sistema impositivo,
+#+END_QUOTE
+
+** Introduzione di ulteriori scaglioni
+:PROPERTIES:
+:NOTER_PAGE: (1 0.5039325842696629 . 0.15317460317460319)
+:END:
+#+BEGIN_QUOTE
+L’introduzione di ulteriori scaglioni ed aliquote marginali IRPEF per redditi più elevati,
+#+END_QUOTE
+
+#+begin_verse
+Questo testo è un tipico esempio della follia neoliberale che domina il pensiero
+economico negli ultimi decenni.
+
+Propone una serie di politiche progettate per spostare la ricchezza dai poveri e
+dalla classe media verso i ricchi. Questa agenda è sostenuta con l'affermazione
+che le disuguaglianze sono un problema importante che deve essere risolto, ma la
+soluzione proposta è quella di dare ancora di più a coloro che già hanno molto.
+
+Questa agenda ha dimostrato di non funzionare. Negli ultimi decenni, mentre la
+disuguaglianza è cresciuta, le politiche neoliberiste sono state implementate in
+tutto il mondo. Questa agenda ha portato ad un aumento della povertà, della
+disoccupazione e dell'instabilità economica.
+
+Il motivo per cui questa agenda non funziona è semplice. Il problema non è che i
+ricchi non paghino abbastanza tasse. Il problema è che il sistema capitalista
+stesso genera disuguaglianza. Il sistema capitalista è un sistema di
+sfruttamento, in cui i ricchi traggono profitto dal lavoro dei poveri e della
+classe media.
+
+L'unica soluzione al problema della disuguaglianza è trasformare il sistema
+capitalista. Dobbiamo costruire una società più giusta ed equa in cui la
+ricchezza sia distribuita più equamente e tutti abbiano l'opportunità di
+raggiungere il proprio pieno potenziale.
+#+end_verse
+
+
+Il *Manifesto TaxTheRich* propone una serie di politiche per aumentare le tasse
+sui ricchi al fine di ridurre le disuguaglianze e raccogliere entrate per
+programmi sociali. Queste politiche includono:
+
+- Un'imposta progressiva sui grandi patrimoni
+- Un aumento delle tasse sulle grandi successioni e donazioni
+- Ulteriori scaglioni e aliquote di imposta sul reddito per i redditi più alti
+- L'ampliamento della base imponibile dell'imposta sul reddito delle persone
+  fisiche
+- Una revisione delle imposte sul reddito e sul patrimonio immobiliare
+
+Il manifesto sostiene che queste politiche sono necessarie per contrastare le
+crescenti disuguaglianze e l'iniquità nel sistema fiscale. Sostiene inoltre che
+queste politiche sono ampiamente sostenute dal pubblico e che sono necessarie
+per costruire una società più giusta ed equa.
+
+Tuttavia, il manifesto è stato criticato per essere irrealistico e inefficace. I
+critici sostengono che è improbabile che queste politiche vengano implementate e
+che, anche se lo fossero, non farebbero molto per ridurre le disuguaglianze.
+Sostengono inoltre che queste politiche sarebbero dannose per l'economia e
+porterebbero a una crescita economica inferiore.
